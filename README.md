@@ -7,34 +7,32 @@ Fourth-year BTech CSE student @KIIT. Aspiring Data Analyst with hands-on experie
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-grey?style=for-the-badge&logo=opencv)
+![spaCy](https://img.shields.io/badge/spaCy-grey?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-grey?style=for-the-badge&logo=huggingface)
+![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-grey?style=for-the-badge&logo=springboot)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![PowerBI](https://img.shields.io/badge/PowerBI-grey?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-grey?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-grey?style=for-the-badge&logo=microsoft-excel)
+![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-grey?style=for-the-badge&logo=googleanalytics)
+![HubSpot](https://img.shields.io/badge/HubSpot-grey?style=for-the-badge&logo=hubspot)
+![Salesforce](https://img.shields.io/badge/Salesforce-grey?style=for-the-badge&logo=salesforce)
+![Apollo](https://img.shields.io/badge/Apollo-grey?style=for-the-badge)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GoogleAnalytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-4B5CFF?style=for-the-badge)
 
 
 ---
