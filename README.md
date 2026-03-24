@@ -57,6 +57,19 @@ Fourth-year BTech CSE student @KIIT. Aspiring Data Analyst with hands-on experie
 
 🔗 **Source Code:** https://github.com/chikki2999/dark-data-project
 
+### AI/ML Project
+
+Facial Recognition System for Remote Hiring
+**Tech:** TensorFlow, PyTorch, OpenCV, SpaCy, Hugging Face, MongoDB, AWS S3
+
+Developed an AI/ML-driven facial recognition and analysis system to support remote hiring workflows.
+Built a deep learning pipeline to detect, process, and analyze facial features using computer vision techniques.
+Integrated NLP tools (SpaCy, Hugging Face) to extend analysis capabilities within candidate evaluation workflows.
+Designed scalable data storage using MongoDB for structured data and AWS S3 for media handling.
+Enabled efficient processing and structured insights to assist recruiters in candidate assessment.
+
+🔗 **Source Code:** https://github.com/chikki2999/emotion-detection
+
 ---
 ## Beyond Academics
 
