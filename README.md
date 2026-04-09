@@ -57,16 +57,30 @@ Fourth-year BTech CSE student @KIIT. Aspiring Data Analyst with hands-on experie
 
 🔗 **Source Code:** https://github.com/chikki2999/dark-data-project
 
-### AI/ML Project
+## ETL & Automation Projects
+
+### Qapita Client Ops ETL Pipeline
+
+**Tech**: Python, Pandas, Apache Airflow, SQL, SQLite
+
+- Built a 5-task automated ETL pipeline using Apache Airflow to replace manual client operations workflows from my internship at Qapita.
+- Extracted client task data from a REST API, transformed it using Pandas to flag overdue items and assign priority levels.
+- Loaded clean data into a SQLite database and ran SQL aggregations to auto-generate Weekly Business Review summaries.
+- Implemented automated alerting for critical overdue tasks, replicating the manual reporting process that previously took hours.
+- Scheduled pipeline to run every weekday at 9am with automatic retry logic for failed tasks.
+🔗 **Source Code:** https://github.com/chikki2999/qapita-etl-pipeline
+
+## AI/ML Project
 
 Facial Recognition System for Remote Hiring
+
 **Tech:** TensorFlow, PyTorch, OpenCV, SpaCy, Hugging Face, MongoDB, AWS S3
 
-Developed an AI/ML-driven facial recognition and analysis system to support remote hiring workflows.
-Built a deep learning pipeline to detect, process, and analyze facial features using computer vision techniques.
-Integrated NLP tools (SpaCy, Hugging Face) to extend analysis capabilities within candidate evaluation workflows.
-Designed scalable data storage using MongoDB for structured data and AWS S3 for media handling.
-Enabled efficient processing and structured insights to assist recruiters in candidate assessment.
+- Developed an AI/ML-driven facial recognition and analysis system to support remote hiring workflows.
+- Built a deep learning pipeline to detect, process, and analyze facial features using computer vision techniques.
+- Integrated NLP tools (SpaCy, Hugging Face) to extend analysis capabilities within candidate evaluation workflows.
+- Designed scalable data storage using MongoDB for structured data and AWS S3 for media handling.
+- Enabled efficient processing and structured insights to assist recruiters in candidate assessment.
 
 🔗 **Source Code:** https://github.com/chikki2999/emotion-detection
 
