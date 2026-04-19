@@ -2,7 +2,11 @@
 
 ##  🧠 About me 
 
-Fourth-year BTech CSE student @KIIT. Aspiring Data Analyst with hands-on experience on both sides of the table - started as a GTM Growth Executive at Antbox , then moved into Marketing Operations at Qapita where I spent months deep in the data. I've seen how business teams think and what they need, but I'm more drawn to the technical side - the problem-solving, the logic, the actual building. Data Analyst is the sweet spot for me: technical enough to dig into the code and datasets, but still connected to real business problems. I enjoy finding patterns in chaos, optimizing processes with data, and turning raw numbers into insights that actually matter. Curious by nature - always learning, building, and experimenting.
+Final-year BTech CSE @KIIT | Looking to build a career in data.
+
+Started as an intern in GTM at Antbox, moved into Marketing Ops at Qapita - spent months in the data: cleaning it, structuring it, building workflows around it. That's what got me hooked on the technical side.
+I've seen how business teams think and what they actually need from data and I want to be the person who builds it. Whether that's pipelines, analysis, or just making messy data usable.
+Also exploring AI/ML on the side - curious about where data engineering and AI intersect.
 
 ---
 
