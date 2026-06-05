@@ -76,7 +76,22 @@ Also exploring AI/ML on the side - curious about where data engineering and AI i
 
 ## AI/ML Project
 
-Facial Recognition System for Remote Hiring
+### Aamrai AI Impact Analyzer (still adding changes)
+
+**Tech**: Python, Streamlit, NLP, RAG, ChromaDB, Sentence-Transformers, Hugging Face
+
+- Built an end-to-end AI decision support system for analyzing environmental and social impact of urban infrastructure projects.
+- Designed a RAG-based document intelligence pipeline to process PDFs using chunking, embeddings, and semantic retrieval.
+- Used Sentence-Transformers (all-MiniLM-L6-v2) to generate embeddings and ChromaDB for vector storage and retrieval.
+- Developed an environmental impact engine to estimate CO₂ loss, heat increase, and canopy reduction from project inputs.
+- Built an NLP-based sentiment analysis module to extract insights from citizen feedback and unstructured text data.
+- Designed an AI decision layer that combines retrieved documents, environmental metrics, and sentiment signals to generate recommendations.
+
+🔗 **Live Demo**: Available in files
+
+🔗 **Source Code**: https://github.com/chikki2999/Aamrai-AI-Impact-Analyzer
+
+### Facial Recognition System for Remote Hiring
 
 **Tech:** TensorFlow, PyTorch, OpenCV, SpaCy, Hugging Face, MongoDB, AWS S3
 
