@@ -1,6 +1,6 @@
 
 
-##  🧠 About me 
+##  About me 
 
 Final-year BTech CSE @KIIT | Looking to build a career in data.
 
@@ -42,13 +42,27 @@ Also exploring AI/ML on the side - curious about where data engineering and AI i
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 
 
 ## Analytics Projects
 
+### MissionPulse : Supply Chain Risk Analytics & Operational Intelligence
 
+**Tech:** Python, Pandas, PostgreSQL, SQL, Power BI, Jupyter, Git
+- Built an end-to-end supply chain analytics solution to identify operational risk across **32,065 logistics operations** and support data-driven intervention prioritization.
+- Designed a complete analytics pipeline covering **data profiling, cleaning, feature engineering, risk scoring, PostgreSQL data modeling, SQL analytics, and Power BI visualization**.
+- Engineered a composite **MissionPulse Risk Score** using disruption likelihood, ETA variation, traffic congestion, port congestion, supplier reliability, lead time, and inventory pressure.
+- Built analytical tables and SQL views in **PostgreSQL** to transform processed operational data into business-ready datasets for reporting and dashboarding.
+- Developed an interactive **Power BI dashboard** with executive KPIs, risk-driver analysis, risk distribution, daily risk trends, and a high-risk operational queue.
+- Evaluated **machine learning approaches** for operational risk prediction and identified limitations in the available target/feature structure and model reliability.
+- Chose a transparent, interpretable **risk-scoring framework** instead of forcing an ML solution that did not provide sufficient analytical value for the business use case.
+- Validated key metrics across **Python, PostgreSQL, SQL outputs, and Power BI** to ensure consistency and reliability of reported results.
+
+- **Key Results:** 5,131 high-risk operations | 16.0% high-risk rate | 54.21 average risk score
+
+🔗 **Source Code:** https://github.com/chikki2999/MissionPulse
 
 ### Dark Data Discovery & Insight Engine  
 **Tech:** Python, Pandas, Excel, Power BI  
@@ -72,6 +86,7 @@ Also exploring AI/ML on the side - curious about where data engineering and AI i
 - Loaded clean data into a SQLite database and ran SQL aggregations to auto-generate Weekly Business Review summaries.
 - Implemented automated alerting for critical overdue tasks, replicating the manual reporting process that previously took hours.
 - Scheduled pipeline to run every weekday at 9am with automatic retry logic for failed tasks.
+  
 🔗 **Source Code:** https://github.com/chikki2999/qapita-etl-pipeline
 
 ## AI/ML Project
